@@ -15,7 +15,7 @@
 * [Spring Boot Web 开发注解篇](Chapter2/Spring Boot Web 开发注解篇.md)
 * [Spring Boot 表单验证篇](Chapter2/Spring Boot 表单验证篇.md)
 * [Spring Boot 2.x 小新功能 – Spring Data Web configuration](Chapter2/Spring Boot 2.x 小新功能 – Spring Data Web configuration.md)
-* [Spring Boot 实现 Restful 服务，基于 HTTP / JSON 传输](Chapter2/Spring Boot 实现 Restful 服务，基于 HTTP / JSON 传输.md)
+* [Spring Boot 实现 Restful 服务，基于 HTTP / JSON 传输](Chapter2/Spring Boot 实现 Restful 服务基于HTTP JSON 传输.md)
 * [Spring Boot 之 RESRful API 权限控制](Chapter2/Spring Boot 之 RESRful API 权限控制.md)
 * [Spring Boot 集成 FreeMarker](Chapter2/Spring Boot 集成 FreeMarker.md)
 * [Spring Boot HTTP over JSON 的错误码异常处理](Chapter2/Spring Boot HTTP over JSON 的错误码异常处理.md)
